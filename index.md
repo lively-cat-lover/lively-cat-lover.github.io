@@ -1,36 +1,16 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-## Lei Yang's Page
+layout: page
+permalink: /
+---
+### Webinar on Diophantine approximation and homogeneous dynamics
 
+This online seminar is devoted to recent progress in Diophantine approximation, homogeneous dynamics and related topics. Every lecture will consist of two parts: the first part for a general introduction and the second part for explaining proofs in detail. 
 
+Talks will be given on zoom. Please send an email to one of the organizers to get the access.
 
-### Markdown
+If you would like to give a talk, please send the title, abstract and related papers (if available) of your proposed talk to one of the organizers by email.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lively-cat-lover/lively-cat-lover.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Organizers: [Victor Beresnevich](mailto:victor.beresnevich@york.ac.uk), [Erez Nesharim](mailto:ereznesh@gmail.com), [Lei Yang](mailto:lyang861028@gmail.com)
