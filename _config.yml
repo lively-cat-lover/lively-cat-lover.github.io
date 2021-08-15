@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Diophantine Approximation and Homogeneous Dynamics Webinar
+title: Welcome to Lei Yang's Page
 email: lei.yang@scu.edu.cn
 description: >- # this means to ignore newlines until "baseurl:"
-  Information about talks at Diophantine Approximation and Homogeneous Dynamics Webinar.
-baseurl: "/" # the subpath of your site, e.g. /blog
+  Lei Yang's personal page
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: none
 github_username:  none
@@ -33,7 +33,7 @@ defaults:
     scope:
       path: ""
     values:
-      speaker-page: "https://lively-cat-lover.github.io/DAHD-webinar/"
+      speaker-page: "https://lively-cat-lover.github.io/"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
