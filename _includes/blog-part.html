@@ -1,0 +1,16 @@
+<div class="panel footer-margin bg-dark">
+    <a href="{{site.baseurl}}/full-post-list-page/">All Talks</a>
+    <hr>
+    <div class="row">
+        {% for post in site.posts limit:4 %}
+        <div class="col-md-12 col-sm-12">
+            <div class="card bg-dark">
+                <h3>Title: {{post.title}}</h3>
+                <p>Speaker: <a href="{{post.speaker-page}}">{{post.speaker}}</a></p>
+                <p>Date: {{post.date | date: "%e %B, %Y %H:%M %Z" }}</p>
+                <p>{{ post.content | truncatewords: 150 }} <a href="{{site.baseurl}}{{post.url}}">Full Information</a></p>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
