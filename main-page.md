@@ -4,11 +4,11 @@ title: Main Page
 permalink: /
 ---
 
-### This is Lei Yang's personal page.
+### 
 
 ### Contact Information
 ---
-- College of Mathematics, Sichuan University, 
+- Lei Yang, College of Mathematics, Sichuan University, 
 Chengdu, Sichuan, 610000, China.
 - Email: lei.yang@scu.edu.cn 
 
