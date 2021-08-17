@@ -6,8 +6,8 @@ layout: default
 
 {% for post in site.posts %}
 <div class="card">
-    <h5>Title: {{post.title}}</h5>
-    <p>Time: {{post.date |date: "%e %B, %Y %H:%M %Z"}}</p>
+    <h5>{{post.title}}</h5>
+    <p>Date: {{post.date |date: "%e %B, %Y "}}</p>
     <a data-toggle="collapse" href="#post{{forloop.index}}"><p>More Info...</p></a>
     <div class="collapse" id="post{{forloop.index}}">
             <p>{{post.content | truncatewords: 150 }} <a href="{{site.baseurl}}{{post.url}}">Full Information</a></p>
