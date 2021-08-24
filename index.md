@@ -16,7 +16,7 @@ Chengdu, Sichuan, 610000, China.
 
 
 
-### Employments
+### Employment
 ---
 - 2017/09-present: Associate Professor, Sichuan University, China.
 - 2015/10-2017/08: Postdoc Fellow, Hebrew University of Jerusalem, Israel.
