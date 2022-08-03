@@ -13,9 +13,6 @@ My research focuses on dynamical systems of group actions on homogeneous spaces 
 
 ### Preprints
 ---
-- Exponential mixing, KAM and smooth local rigidity. Joint with Ralf Spatzier. 
-[arXiv:2106.01585](https://arxiv.org/abs/2106.01585)
-
 - Khintchine’s theorem and Diophantine approximation on manifolds. Joint with Victor Beresnevich. [arXiv:2105.13872](https://arxiv.org/abs/2105.13872)
 
 - An effective Ratner equidistribution theorem for multiplicative Diophantine approximation on planar lines. Joint with Sam Chow. [arXiv:1902.06081](https://arxiv.org/abs/1902.06081)
