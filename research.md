@@ -8,7 +8,7 @@ permalink: /lei-yang/research
 My research focuses on dynamical systems of group actions on homogeneous spaces and their applications to number theory. Recently I am interested in the following topics:
 
 - Diophantine approximation on manifolds
-- Rigidity of higher rank Abelian actions on compact manifolds
+- Effective equidistribution of unipotent orbits and applications to number theory
 
 
 ### Preprints
