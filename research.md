@@ -15,13 +15,13 @@ My research focuses on dynamical systems of group actions on homogeneous spaces 
 ---
 - Effective version of Ratner's equidistribution theorem for $\mathrm{SL}(3, \mathbb{R})$. [arXiv:2208.02525](https://arxiv.org/abs/2208.02525)
 
-- Khintchine’s theorem and Diophantine approximation on manifolds. Joint with Victor Beresnevich. [arXiv:2105.13872](https://arxiv.org/abs/2105.13872)
-
 - An effective Ratner equidistribution theorem for multiplicative Diophantine approximation on planar lines. Joint with Sam Chow. [arXiv:1902.06081](https://arxiv.org/abs/1902.06081)
 
 
 ### Publications
 ---
+- Khintchine’s theorem and Diophantine approximation on manifolds. Joint with Victor Beresnevich. Acta Mathematica, to appear. [arXiv:2105.13872](https://arxiv.org/abs/2105.13872)
+
 - Winning property of badly approximable points on curves. Joint with Victor Beresnevich and Erez Nesharim. Accepted to Duke. [arXiv:2005.02128](https://arxiv.org/abs/2005.02128)
 
 - $\mathbf{Bad}(w)$ is hyperplane absolute winning. Joint with Victor Beresnevich and Erez Nesharim. Geometric and Functional Analysis, Volume 31 (2021), Issue 1, 1-33. [arXiv:2005.11947](https://arxiv.org/abs/2005.11947)
