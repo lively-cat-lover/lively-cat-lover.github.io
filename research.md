@@ -27,6 +27,8 @@ My research focuses on dynamical systems of group actions on homogeneous spaces 
 
 - Winning property of badly approximable points on curves. Joint with Victor Beresnevich and Erez Nesharim. Duke Math. J. Volume 171 (2022), no. 14, 2841-2880. [arXiv:2005.02128](https://arxiv.org/abs/2005.02128)
 
+- Equidistribution of expanding translates of curves in homogeneous spaces with the action of $(\mathrm{SO}(n,1))^k$. Acta Math. Sin. (Engl. Ser.), Volume 38 (2022), no. 1, 250-224.
+
 - $\mathbf{Bad}(w)$ is hyperplane absolute winning. Joint with Victor Beresnevich and Erez Nesharim. Geometric and Functional Analysis, Volume 31 (2021), Issue 1, 1-33. [arXiv:2005.11947](https://arxiv.org/abs/2005.11947)
 
 - Equidistribution of curves in homogeneous spaces and Dirichlet’s approximation Theorem for matrices. Joint with Nimish Shah. Discrete and Continuous Dynamical Systems-A, Volume 40 (2020), no. 9, 5247-5287. [arXiv:1606.00152](https://arxiv.org/abs/1606.00152)
