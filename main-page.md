@@ -8,15 +8,15 @@ permalink: /
 
 ### Contact Information
 ---
-- Lei Yang, College of Mathematics, Sichuan University, 
-Chengdu, Sichuan, 610000, China.
-- Email: lei.yang@scu.edu.cn 
+- Lei Yang, Institute for Advanced Study, Princeton, NJ, 08540
+- Email: lyang@ias.edu
 
 
 
 ### Employment
 ---
-- 2017/09-present: Associate Professor, Sichuan University, China.
+- 2023/09-present: Member, IAS, Princeton, USA.
+- 2017/09-2023/08: Associate Professor, Sichuan University, China.
 - 2015/10-2017/08: Postdoc Fellow, Hebrew University of Jerusalem, Israel.
 - 2015/01-2015/05: Postdoc Fellow, MSRI, Berkeley, USA.
 - 2014/07-2014/12: Postdoc Fellow, Yale University, USA.
