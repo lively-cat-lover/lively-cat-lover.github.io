@@ -24,7 +24,7 @@ My research focuses on dynamical systems of group actions on homogeneous spaces 
 ### Publications
 ---
 
-- Effective equidistribution for multiplicative Diophantine approximation on lines. Joint with [Sam Chow](https://sites.google.com/view/samchowmathematics). Inventiones Mathematicae, accepted. [arXiv:1902.06081](https://arxiv.org/abs/1902.06081)
+- Effective equidistribution for multiplicative Diophantine approximation on lines. Joint with [Sam Chow](https://sites.google.com/view/samchowmathematics). Inventiones Mathematicae, [Online](https://link.springer.com/article/10.1007/s00222-023-01233-1), [arXiv:1902.06081](https://arxiv.org/abs/1902.06081)
 
 - Khintchine’s theorem and Diophantine approximation on manifolds. Joint with [Victor Beresnevich](https://www.york.ac.uk/maths/people/victor-beresnevich/). Acta Mathematica, Volume 231 (2023), no. 1, 1-30. [arXiv:2105.13872](https://arxiv.org/abs/2105.13872)
 
