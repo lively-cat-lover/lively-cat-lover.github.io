@@ -6,7 +6,7 @@ permalink: /
 
 <br/><br/>
 
-![Photo](lei-yang-photo.JPG)
+<img src="lei-yang-photo.JPG" alt="drawing" width="200"/>
 
 ### Contact Information
 ---
