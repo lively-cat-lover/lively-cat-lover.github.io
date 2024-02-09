@@ -6,6 +6,8 @@ permalink: /
 
 <br/><br/>
 
+![Photo](https://github.com/lively-cat-lover/lively-cat-lover.github.io/blob/main/lei-yang-photo.JPG)
+
 ### Contact Information
 ---
 - Lei Yang, Institute for Advanced Study, Princeton, NJ, 08540
