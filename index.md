@@ -6,9 +6,11 @@ layout: default
 permalink: /lei-yang
 ---
 
+<img src="lei-yang-photo.JPG" alt="drawing" width="200"/>
+
 <br/><br/>
 
-<img src="lei-yang-photo.JPG" alt="drawing" width="200"/>
+
 
 ### Contact Information
 ---

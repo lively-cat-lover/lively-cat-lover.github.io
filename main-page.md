@@ -4,9 +4,11 @@ title: Main Page
 permalink: /
 ---
 
+<img src="lei-yang-photo.JPG" alt="drawing" width="200"/>
+
 <br/><br/>
 
-<img src="lei-yang-photo.JPG" alt="drawing" width="200"/>
+
 
 ### Contact Information
 ---
