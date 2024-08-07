@@ -12,18 +12,19 @@ permalink: /
 
 ### Contact Information
 ---
-- Lei Yang, Institute for Advanced Study, Princeton, NJ, 08540
-- Email: lyang@ias.edu
+- Lei Yang, Department of Mathematics, National University of Singapore, Singapore, 119076
+- Email: lei.yang@nus.edu.sg
 
 
 
 ### Employment
 ---
-- 2023/09-present: Member, IAS, Princeton, USA.
-- 2017/09-2023/08: Associate Professor, Sichuan University, China.
-- 2015/10-2017/08: Postdoc Fellow, Hebrew University of Jerusalem, Israel.
-- 2015/01-2015/05: Postdoc Fellow, MSRI, Berkeley, USA.
-- 2014/07-2014/12: Postdoc Fellow, Yale University, USA.
+- 07/2024-present: Associate Professor, National University of Singapore, Singapore.
+- 09/2023-06/2024: Member, IAS, Princeton, USA.
+- 09/2017-08/2023: Associate Professor, Sichuan University, China.
+- 10/2015-08/2017: Postdoc Fellow, Hebrew University of Jerusalem, Israel.
+- 01/2015-05/2015: Postdoc Fellow, MSRI, Berkeley, USA.
+- 07/2014-12/2014: Postdoc Fellow, Yale University, USA.
 
 
 ### Education
