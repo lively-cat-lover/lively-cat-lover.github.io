@@ -14,9 +14,10 @@ My research focuses on dynamical systems of group actions on homogeneous spaces 
 ### Preprints
 ---
 
-- An effective version of the Oppenheim conjecture with a polynomial error rate. Joint with [Elon Lindenstrauss](http://www.ma.huji.ac.il/~elon/), [Amir Mohammadi](https://mathweb.ucsd.edu/~ammohammadi/), and [Zhiren Wang](https://science.psu.edu/math/people/zxw14). [arXiv:2305.18271](https://arxiv.org/abs/2305.18271)
+- Effective equidistribution in rank $2$ homogeneous spaces and values of quadratic forms. Joint with [Elon Lindenstrauss](http://www.ma.huji.ac.il/~elon/), [Amir Mohammadi](https://mathweb.ucsd.edu/~ammohammadi/), and [Zhiren Wang](https://sites.google.com/view/zhiren-wang/). [arXiv:2503.21064](https://arxiv.org/abs/2503.21064)
 
-- Effective version of Ratner's equidistribution theorem for $\mathrm{SL}(3, \mathbb{R})$. [arXiv:2208.02525](https://arxiv.org/abs/2208.02525)
+
+- An effective version of the Oppenheim conjecture with a polynomial error rate. Joint with [Elon Lindenstrauss](http://www.ma.huji.ac.il/~elon/), [Amir Mohammadi](https://mathweb.ucsd.edu/~ammohammadi/), and [Zhiren Wang]https://sites.google.com/view/zhiren-wang/). [arXiv:2305.18271](https://arxiv.org/abs/2305.18271)
 
 
 
@@ -24,7 +25,9 @@ My research focuses on dynamical systems of group actions on homogeneous spaces 
 ### Publications
 ---
 
-- Effective equidistribution for multiplicative Diophantine approximation on lines. Joint with [Sam Chow](https://sites.google.com/view/samchowmathematics). Inventiones Mathematicae, [Online](https://link.springer.com/article/10.1007/s00222-023-01233-1), [arXiv:1902.06081](https://arxiv.org/abs/1902.06081)
+- Effective version of Ratner's equidistribution theorem for $\mathrm{SL}(3, \mathbb{R})$. Annals of Math., [Online](https://annals.math.princeton.edu/articles/21766), [arXiv:2208.02525](https://arxiv.org/abs/2208.02525)
+
+- Effective equidistribution for multiplicative Diophantine approximation on lines. Joint with [Sam Chow](https://sites.google.com/view/samchowmathematics). Inventiones Mathematicae, Volume 235 (2024), 973–1007, [arXiv:1902.06081](https://arxiv.org/abs/1902.06081)
 
 - Khintchine’s theorem and Diophantine approximation on manifolds. Joint with [Victor Beresnevich](https://www.york.ac.uk/maths/people/victor-beresnevich/). Acta Mathematica, Volume 231 (2023), no. 1, 1-30. [arXiv:2105.13872](https://arxiv.org/abs/2105.13872)
 
