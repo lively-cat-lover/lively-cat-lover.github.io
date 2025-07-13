@@ -25,7 +25,7 @@ My research focuses on dynamical systems of group actions on homogeneous spaces 
 ### Publications
 ---
 
-- Effective version of Ratner's equidistribution theorem for $\mathrm{SL}(3, \mathbb{R})$. Annals of Math., [Online](https://annals.math.princeton.edu/articles/21766), [arXiv:2208.02525](https://arxiv.org/abs/2208.02525)
+- Effective version of Ratner's equidistribution theorem for $\mathrm{SL}(3, \mathbb{R})$. Annals of Math., Volume 202(2025), Issue 1, 189-264, [arXiv:2208.02525](https://arxiv.org/abs/2208.02525)
 
 - Effective equidistribution for multiplicative Diophantine approximation on lines. Joint with [Sam Chow](https://sites.google.com/view/samchowmathematics). Inventiones Mathematicae, Volume 235 (2024), 973–1007, [arXiv:1902.06081](https://arxiv.org/abs/1902.06081)
 
