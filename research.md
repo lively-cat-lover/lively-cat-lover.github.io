@@ -14,10 +14,12 @@ My research focuses on dynamical systems of group actions on homogeneous spaces 
 ### Preprints
 ---
 
-- Effective equidistribution in rank $2$ homogeneous spaces and values of quadratic forms. Joint with [Elon Lindenstrauss](http://www.ma.huji.ac.il/~elon/), [Amir Mohammadi](https://mathweb.ucsd.edu/~ammohammadi/), and [Zhiren Wang](https://sites.google.com/view/zhiren-wang/). [arXiv:2503.21064](https://arxiv.org/abs/2503.21064)
+- Polynomially effective equidistribution for unipotent orbits in products of $\mathrm{SL}_2$ factors. Joint with [Elon Lindenstrauss](http://www.ma.huji.ac.il/~elon/), and [Amir Mohammadi](https://math.berkeley.edu/~amirmo/). [arXiv:2601.09983](https://arxiv.org/abs/2601.09983)
+
+- Effective equidistribution in rank $2$ homogeneous spaces and values of quadratic forms. Joint with [Elon Lindenstrauss](http://www.ma.huji.ac.il/~elon/), [Amir Mohammadi](https://math.berkeley.edu/~amirmo/), and [Zhiren Wang](https://sites.google.com/view/zhiren-wang/). [arXiv:2503.21064](https://arxiv.org/abs/2503.21064)
 
 
-- An effective version of the Oppenheim conjecture with a polynomial error rate. Joint with [Elon Lindenstrauss](http://www.ma.huji.ac.il/~elon/), [Amir Mohammadi](https://mathweb.ucsd.edu/~ammohammadi/), and [Zhiren Wang](https://sites.google.com/view/zhiren-wang/). [arXiv:2305.18271](https://arxiv.org/abs/2305.18271)
+- An effective version of the Oppenheim conjecture with a polynomial error rate. Joint with [Elon Lindenstrauss](http://www.ma.huji.ac.il/~elon/), [Amir Mohammadi](https://math.berkeley.edu/~amirmo/), and [Zhiren Wang](https://sites.google.com/view/zhiren-wang/). [arXiv:2305.18271](https://arxiv.org/abs/2305.18271)
 
 
 
