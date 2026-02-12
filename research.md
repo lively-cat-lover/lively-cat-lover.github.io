@@ -14,6 +14,8 @@ My research focuses on dynamical systems of group actions on homogeneous spaces 
 ### Preprints
 ---
 
+- Weighted Diophantine approximation on manifolds. Joint with [Victor Beresnevich](https://www.york.ac.uk/maths/people/victor-beresnevich/), and [Shreyasi Datta](https://sites.google.com/view/shreyasidatta/home). [arXiv:2602.11045](https://arxiv.org/abs/2602.11045)
+
 - Polynomially effective equidistribution for unipotent orbits in products of $\mathrm{SL}_2$ factors. Joint with [Elon Lindenstrauss](http://www.ma.huji.ac.il/~elon/), and [Amir Mohammadi](https://math.berkeley.edu/~amirmo/). [arXiv:2601.09983](https://arxiv.org/abs/2601.09983)
 
 - Effective equidistribution in rank $2$ homogeneous spaces and values of quadratic forms. Joint with [Elon Lindenstrauss](http://www.ma.huji.ac.il/~elon/), [Amir Mohammadi](https://math.berkeley.edu/~amirmo/), and [Zhiren Wang](https://sites.google.com/view/zhiren-wang/). [arXiv:2503.21064](https://arxiv.org/abs/2503.21064)
